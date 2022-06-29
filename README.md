@@ -1,1 +1,3 @@
-Awesome Python project (bootstarp elements try)
+Awesome Python project
+(bootstarp elements attempt)
+:)
